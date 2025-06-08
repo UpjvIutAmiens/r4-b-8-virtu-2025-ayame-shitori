@@ -1,0 +1,39 @@
+{ 
+    "film": [
+        {
+            "id": 1,
+            "titre": "Inception",
+            "description": "Un rêve dans un rêve dans un rêve where are we now .",
+            "affiche": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg",
+            "genre":"Science-fiction"
+        },
+        {
+            "id": 2,
+            "titre": "Matrix",
+            "description": "La réalité est une illusion.",
+            "affiche": "https://m.media-amazon.com/images/I/51EG732BV3L.jpg",
+            "genre":"Science-fiction"
+        },
+        {
+            "id": 3,
+            "titre": "my neighbor totoro",
+            "description": "Film d'animation japonais réalisé par Hayao Miyazaki.",
+            "affiche": "https://storage.googleapis.com/pod_public/1300/262736.jpg",
+            "genre":"Animation"
+        },
+        {
+            "id": "4",
+            "title": "Titanic",
+            "description": "Un aristocrate de dix-sept ans tombe amoureuse d'un artiste gentil mais pauvre à bord du luxueux et maudit R.M.S. Titanic.",
+            "poster": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/41MVlLiRqWL._SY342_.jpg",
+            "genre": "Romance"
+        },
+        {
+            "id": "5",
+            "title": "La La Land",
+            "description": "Alors qu'ils luttent pour joindre les deux bouts dans une ville connue pour briser les gens et briser les rêves, l'aspirante actrice Mia et le musicien de jazz en difficulté Sebastian sont destinés à se rencontrer.",
+            "poster": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/71zft4RC5KL._SL1500_.jpg",
+            "genre": "Comédie musicale"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ../src/backend
+    container_name: filmometer-backend
+    ports:
+      - "3000:3000"

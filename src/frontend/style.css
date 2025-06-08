@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+img {
+    width: 200px;        /* taille fixe largeur */
+    height: 300px;       /* taille fixe hauteur */
+    object-fit: cover;   /* pour éviter déformation */
+    margin-bottom: 1rem;
+    border-radius: 8px;
+}
+
+#note-buttons button {
+    margin: 0 0.3rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+#note-buttons button:hover {
+    background-color: #0056b3;
+}
+
+#average-note {
+    margin-top: 1rem;
+    font-weight: bold;
+}
+
+#new-movie-btn {
+    margin-top: 20px;
+    padding: 0.7rem 1.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 6px;
+    background-color: #28a745;
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+#new-movie-btn:hover {
+    background-color: #1e7e34;
+}
